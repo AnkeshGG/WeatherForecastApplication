@@ -17,12 +17,10 @@ VayuCast is a **modern and intuitive** weather forecast application built using 
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/6bfcc8cd-6574-41cf-8bdc-eb889d04dac9)
-![image](https://github.com/user-attachments/assets/81d922db-8a15-4032-a10b-39514cb54535)
-![image](https://github.com/user-attachments/assets/3c25d99c-33b0-4042-9027-90bb914ddda6)
-![image](https://github.com/user-attachments/assets/0405598d-366e-4acf-9111-4f0d1613d35c)
-
-
+![Screenshot 2025-05-29 172913](https://github.com/user-attachments/assets/d289afe8-1bc3-4ac1-9620-a2f511fa65b7)
+![Screenshot 2025-05-29 172155](https://github.com/user-attachments/assets/73ce180b-ec75-4e63-9d0d-08a2e87d9494)
+![Screenshot 2025-05-29 172751](https://github.com/user-attachments/assets/83d045f8-3eb1-44c3-89f2-1bf0290c85b1)
+![Screenshot 2025-05-29 172524](https://github.com/user-attachments/assets/201daf9f-e481-4d1c-9fac-dbbfc41eb8d6)
 
 ## Technical Details
 
